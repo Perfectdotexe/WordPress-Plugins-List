@@ -1,5 +1,5 @@
 # WPS-Plugins-wordlist
-Revision 2076628 Wordpress Plugins List
+Revision 2076628 (4/28/19) | Wordpress Plugins List
 
 Currently, as or right now, there are no wordlists on Github that are this huge to search for plugins using Wordpress. This list is directly scraped from Wordpress.org (http://plugins.svn.wordpress.org/) that contain a vast array of plugins that are non-existent on the market. The amount of lines is 80,806 (4/28/19) and there are only 55,055 plugins according to https://wordpress.org/plugins/ this is super helpful for reconnaissance.
 
