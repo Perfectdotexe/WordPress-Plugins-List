@@ -1,7 +1,8 @@
 # WordPress-Plugins-wordlist
 Revision 2076628 (4/28/19) | Wordpress Plugins wordlist
 
-<b>Currently under development</b>
+<b>Under development, manual scraping works as of right now.</b>
+<b>To be used only for ethical penetration testing to help further secure vulnerabilities within the vast array of WordPress plugins.</b>
 
 Software to be used with the list: WPScan
 
