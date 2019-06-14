@@ -11,4 +11,4 @@ for item in wordPressSoup.select("body", {"ul": "li"}):
     with open(fileNaming, 'w') as output:
         with open('scrapedlist.txt'.format(wordPressSoup.text), mode='wt', encoding='utf-8') as file:
             file.write(str(wordPressSoup.text.encode('utf-8')))
-    break
+    sys.exit()
